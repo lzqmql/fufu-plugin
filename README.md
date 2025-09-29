@@ -8,7 +8,7 @@
 git clone --depth=1 https://github.com/lzqmql/fufu-plugin.git ./plugins/fufu-plugin
 ```
 
-### 如果网络太慢可使用代理
+### 如果Github网络太慢可使用代理
 ```bash
 git clone --depth=1 https://ghfast.top/https://github.com/lzqmql/fufu-plugin.git ./plugins/fufu-plugin
 ```
