@@ -18,3 +18,5 @@ git clone --depth=1 https://ghfast.top/https://github.com/lzqmql/fufu-plugin.git
 ```bash
 git clone --depth=1 https://gitee.com/qianzhi11_admin/fufu-plugin.git ./plugins/fufu-plugin
 ```
+# 注意事项/bug反馈
+如有问题请提交issues
