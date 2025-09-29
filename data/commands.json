@@ -1,0 +1,30 @@
+{
+  "avatar": "",
+  "titles": {
+    "master": "fufu Dashboard",
+    "normal": "fufu Help"
+  },
+
+  "isMaster": true,
+  "sections": [
+    {
+      "id": "1",
+      "title": "基础服务",
+      "isAdmin": false,
+      "commands": [
+        { "command": "fufu表情列表", "description": "获取表情包列表" },
+        { "command": "点小说", "description": "点小说" }
+      ]
+    },
+    {
+      "id": "admin",
+      "title": "管理员服务",
+      "isAdmin": true,
+      "commands": [
+        { "command": "fufu[强制]更新", "description": "更新啦" },
+        { "command": "fufu信息", "description": "获取更新信息" },
+        { "command": "fufu表情开启/关闭", "description": "表情包开关" }
+      ]
+    }
+  ]
+}
